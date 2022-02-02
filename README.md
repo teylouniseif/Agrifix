@@ -3,6 +3,7 @@ INSTALL
 Linux
 ```bash
 $ pip install -r requirements.txt
+
 ```
 Windows
 ```bash
